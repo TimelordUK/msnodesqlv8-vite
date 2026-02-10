@@ -1,0 +1,28 @@
+{
+  "name": "msnodesqlv8-vite",
+  "version": "1.0.0",
+  "description": "Vite + Express + TypeScript todo app using msnodesqlv8",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server/index.ts",
+    "build": "vite build",
+    "start": "cross-env NODE_ENV=production tsx server/index.ts"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "msnodesqlv8": "^5.1.4",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/react": "^19.2.13",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.4",
+    "cross-env": "^7.0.3",
+    "tsx": "^4.19.4",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}

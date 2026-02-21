@@ -1,6 +1,6 @@
 {
   "name": "msnodesqlv8-vite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vite + Express + TypeScript todo app using msnodesqlv8",
   "private": true,
   "type": "module",

@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "express": "^5.2.1",
-    "msnodesqlv8": "^5.1.8",
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "msnodesqlv8": "^5.1.9",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
@@ -23,6 +23,6 @@
     "cross-env": "^10.1.0",
     "tsx": "^4.21.0",
     "typescript": "^6.0.2",
-    "vite": "^8.0.3"
+    "vite": "^8.0.8"
   }
 }

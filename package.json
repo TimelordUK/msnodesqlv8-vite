@@ -11,18 +11,18 @@
   },
   "dependencies": {
     "express": "^5.2.1",
-    "msnodesqlv8": "^5.2.0",
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6"
+    "msnodesqlv8": "^5.2.1",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
-    "@types/react": "^19.2.14",
+    "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
-    "@vitejs/plugin-react": "^6.0.1",
+    "@vitejs/plugin-react": "^6.0.3",
     "cross-env": "^10.1.0",
-    "tsx": "^4.21.0",
+    "tsx": "^4.22.4",
     "typescript": "^6.0.3",
-    "vite": "^8.0.11"
+    "vite": "^8.1.0"
   }
 }
